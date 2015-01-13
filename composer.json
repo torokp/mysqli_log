@@ -1,0 +1,11 @@
+{
+    "name": "torokp/mysqli-log",
+    "description": "Simple approach to save mysqli_errors to mysql databass",
+    "authors": [
+        {
+            "name": "Peter Torok",
+            "email": "torokp@progterv.info"
+        }
+    ],
+    "require": {}
+}
