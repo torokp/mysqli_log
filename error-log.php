@@ -20,7 +20,7 @@ class error_log {
                 . "errFile = '" . ERR::$db->real_escape_string($file) . "', "
                 . "errLine = '" . ERR::$db->real_escape_string($line) . "' ";
                 
-        SYS::$db->query($error_query);
+        ERR::$db->query($error_query);
     }
 
 }
