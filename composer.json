@@ -7,8 +7,9 @@
             "email": "torokp@progterv.info"
         }
     ],
+    "license": "MIT",
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "torokp\\myslqi_log\\": ""
         }
     },
