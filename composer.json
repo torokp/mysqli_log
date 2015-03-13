@@ -7,5 +7,10 @@
             "email": "torokp@progterv.info"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "torokp\\myslqi_log\\": ""
+        }
+    },
     "require": {}
 }
